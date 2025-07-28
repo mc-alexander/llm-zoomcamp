@@ -9,8 +9,8 @@ The Markdown text in the notebooks are chunks from the notebooks in the **LLM Zo
 **2025 Cohor Start Date:** June 2, 2025, 17:00 CET
 
 - [x] 🛤️ 01-Intro (June 16th)
-- [x] 🔎 02-Vector Search (July 27th)
-- [ ] ✅ 03-Evaluation
+- [x] 🔎 02-Vector Search (June 27th)
+- [x] ✅ 03-Evaluation (July 28th)
 - [ ] 📺 04-Monitoring
 - [ ] 🔦 05-Best Practices
 - [ ] 👷🏻‍♂️ 06-Project Example
@@ -30,7 +30,7 @@ The Markdown text in the notebooks are chunks from the notebooks in the **LLM Zo
 
 ### 2025-06
 
-##### July 22nd
+##### June 22nd
 
 - Start working on _Module 02 - Vector Search_ (I watched the first 3 videos the days before)
   - Getting my feet wet with Vector Search and Qdrant
@@ -38,13 +38,19 @@ The Markdown text in the notebooks are chunks from the notebooks in the **LLM Zo
   - Looking at the data using a cluster algorithm in 2D representation
   - Runned Similarity Search, also applying filters to the search.
 
-##### July 23rd
+##### June 23rd
 
 - Substitute minsearch function for vector search function that uses Qdrant
 
-##### July 27th
+##### June 27th
 
 - Worked on Hybrid Search notebook, took a look at Sparse Vectors and the BM25 algorithm, used Qdrant prefetching to retrieve candidates with a dense vector search, and then rerank them with sparse search.
 - Build Hybrid Search approach with Qdrant by using Reciprocal Rank Fusion to combine results from dense vectors with sparse ones.
 - Completed the content in module 02-vector-search
-- Submit Homework Module 02 - Vector Search
+- Submitted Homework Module 02 - Vector Search
+
+### 2025-07
+
+#### July 28th
+
+- Submitted Homework for module 03 - Evaluation
